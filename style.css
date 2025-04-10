@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    width: 7%;
+    height:7%
+}
+.card-img-top{
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+}
+
+.card_img{
+    width: 50px;
+    height: 50px;
+}
+.profile_img{
+    width: 100%;
+    height: 100%;
+}
+.btn-outline-warning {
+    border: 2px solid #ffc107;
+    color: #ffc107;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.btn-outline-warning:hover {
+    background-color: #ffc107;
+    color: #fff;
+}
+
