@@ -109,7 +109,7 @@ echo "
     <h3 class="text-center">Nikit Furniture</h3>
     <p class="text-center"> From Affordable to premium all available</p>
 </div>
-<div id="carouselExampleIndicators" class="carousel slide mb-5" data-bs-ride="carousel" data-bs-pause="false">
+<div id="carouselExampleIndicators" class="carousel slide mb-6" data-bs-ride="carousel" data-bs-pause="false">
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <img src="./img/f1.jpg" class="d-block w-100"style="width: 500px; height: 500px;" alt="...">
