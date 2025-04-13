@@ -106,24 +106,24 @@ echo "
 </nav>
 <!-- third child -->
 <div class="bg-light">
-    <h3 class="text-center">NN Furniture</h3>
+    <h3 class="text-center">Nikit Furniture</h3>
     <p class="text-center"> From Affordable to premium all available</p>
 </div>
-<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel" data-bs-pause="false">
+<div id="carouselExampleIndicators" class="carousel slide mb-5" data-bs-ride="carousel" data-bs-pause="false">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="./img/f1.jpg" class="d-block w-100"style="width: 500px; height: 200px;" alt="...">
+                <img src="./img/f1.jpg" class="d-block w-100"style="width: 500px; height: 500px;" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="./img/f2.jpg" class="d-block w-100"style="width: 500px; height: 200px;" alt="...">
+                <img src="./img/f2.jpg" class="d-block w-100"style="width: 500px; height: 500px;" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="./img/f3.png" class="d-block w-100"style="width: 500px; height: 200px;" alt="...">
+                <img src="./img/f3.png" class="d-block w-100"style="width: 500px; height: 500px;" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="./img/f4.jpg" class="d-block w-100"style="width: 500px; height: 200px;" alt="...">
+                <img src="./img/f4.jpg" class="d-block w-100"style="width: 500px; height: 500px;" alt="...">
             </div>
-            <!-- Add more carousel items as needed -->
+            
         </div>
     </div>
 <!-- fourth child -->
@@ -154,7 +154,7 @@ cart();
 
 <!-- last child -->
 <div class="bg-warning p-3 text-center">
-    <p>All rights reserved. Designed by NN</p>
+    <p>All rights reserved. Designed by Nikit</p>
 </div>
    </div>
 
@@ -166,7 +166,7 @@ cart();
     document.addEventListener('DOMContentLoaded', function () {
         var myCarousel = document.getElementById('carouselExampleIndicators');
         var carousel = new bootstrap.Carousel(myCarousel, {
-            interval: 3000 // Slide every 3 seconds
+            interval: 2000 
             pause:false
         });
     });

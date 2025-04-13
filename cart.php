@@ -107,7 +107,7 @@ echo "
 </nav>
 <!-- third child -->
 <div class="bg-light">
-    <h3 class="text-center">NN Furniture</h3>
+    <h3 class="text-center">Nikit Furniture</h3>
     <p class="text-center">From Affordable to premium all available</p>
 </div>
 
@@ -237,7 +237,7 @@ echo remove_cart_item();
 
 <!-- last child -->
 <div class="bg-warning p-3 text-center">
-    <p>All rights reserved. Designed by NN</p>
+    <p>All rights reserved. Designed by Nikit</p>
 </div>
    </div>
    

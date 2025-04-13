@@ -166,7 +166,7 @@ echo "
 </nav>
 <!-- third child -->
 <div class="bg-light">
-    <h3 class="text-center">NN Furniture</h3>
+    <h3 class="text-center">Nikit Furniture</h3>
     <p class="text-center">From Affordable to premium all available</p>
 </div>
 
@@ -175,9 +175,9 @@ echo "
     <!-- Contact Information (Left Side) -->
     <div class="col-md-6">
         <h2><i>Contact Information:</i></h2>
-        <p>Name: NN Furniture</p>
+        <p>Name: Nikit Furniture</p>
         <p>Email: nnfurniture@gmail.com</p>
-        <p>Phone: 049421049</p>
+        <p>Phone: 9861908271</p>
 
         <h2><i>Office Location:</i></h2>
         <p>Address: Jawalakhel, Lalitpur</p>
@@ -207,7 +207,7 @@ cart();
 
 <!-- End of row -->
 <div class="bg-warning p-3 text-center">
-    <p>All rights reserved. Designed by NN</p>
+    <p>All rights reserved. Designed by Nikit</p>
 </div>
 </div> <!-- End of container-fluid -->
 
