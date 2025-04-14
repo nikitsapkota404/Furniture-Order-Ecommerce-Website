@@ -18,7 +18,7 @@ session_start();
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-   <!-- ?navbar -->
+   <!-- navbar -->
    <div class="container-fluid">
     <!-- first child -->
     <nav class="navbar navbar-expand-lg bg-warning">
