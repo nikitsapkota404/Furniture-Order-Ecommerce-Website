@@ -45,13 +45,13 @@ label {
 }
 
 textarea {
-    max-width: 50%; /* Make sure it doesn't exceed container width */
+    max-width: 50%;
     padding: 10px;
     margin: 10px;
     border-radius: 30px;
     border: 2px solid black;
     resize: vertical;
-    box-sizing: border-box; /* Include padding in width calculation */
+    box-sizing: border-box;
 }
 
 input[type="submit"] {
