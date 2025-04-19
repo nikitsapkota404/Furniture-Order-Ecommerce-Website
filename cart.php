@@ -25,7 +25,7 @@ session_start();
 </style>
 </head>
 <body>
-   <!-- ?navbar -->
+   <!-- navbar -->
    <div class="container-fluid">
     <!-- first child -->
     <nav class="navbar navbar-expand-lg bg-warning">
