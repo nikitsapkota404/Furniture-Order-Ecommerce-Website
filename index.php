@@ -18,7 +18,7 @@ session_start();
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-   <!-- ?navbar -->
+   <!-- navbar -->
    <div class="container-fluid">
     <!-- first child -->
     <nav class="navbar navbar-expand-lg bg-warning">
@@ -109,7 +109,7 @@ echo "
     <h3 class="text-center">Nikit Furniture</h3>
     <p class="text-center"> From Affordable to premium all available</p>
 </div>
-<div id="carouselExampleIndicators" class="carousel slide mb-5" data-bs-ride="carousel" data-bs-pause="false">
+<div id="carouselExampleIndicators" class="carousel slide mb-6" data-bs-ride="carousel" data-bs-pause="false">
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <img src="./img/f1.jpg" class="d-block w-100"style="width: 500px; height: 500px;" alt="...">
@@ -160,7 +160,7 @@ cart();
 
 
 
-    <!-- bootstrap js link -->
+    <!-- bootstrap js link for carousel-->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 <script>
     document.addEventListener('DOMContentLoaded', function () {
