@@ -62,7 +62,7 @@ if(isset($_POST['admin_login'])){
                 echo "<script>window.open('adminstore.php','_self')</script>";
             }else{
                 $_SESSION['admin_name']=$admin_name;
-                echo "<script>alert('Logged in successfully!');</script>";
+                echo "<script>alert('Logged in successfully!!');</script>";
                 echo "<script>window.open('payment.php','_self')</script>";
             }
         } else {
